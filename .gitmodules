@@ -1,0 +1,3 @@
+[submodule "binerry"]
+	path = binerry
+	url = https://github.com/binerry/RaspberryPi.git
